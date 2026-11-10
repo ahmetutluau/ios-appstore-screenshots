@@ -1,0 +1,40 @@
+{
+  "out_dir": "screenshots/final",
+  "sizes": [
+    "1320x2868"
+  ],
+  "theme": "sunset",
+  "bg": "#FF9A3C",
+  "bg2": "#E8336B",
+  "text": "#FFFFFF",
+  "accent": "#FFFFFF",
+  "frames": [
+    {
+      "screenshot": "raw/01.png",
+      "headline": "Money that\nfeels lighter",
+      "highlight": "",
+      "logo_text": "Pocket"
+    },
+    {
+      "screenshot": "raw/02.png",
+      "headline": "See your month\nat a glance",
+      "highlight": ""
+    },
+    {
+      "screenshot": "raw/03.png",
+      "headline": "Reach goals\none step at a time",
+      "highlight": "",
+      "popouts": [
+        {
+          "crop": [
+            0.0,
+            0.3,
+            1.0,
+            0.09
+          ],
+          "scale": 1.12
+        }
+      ]
+    }
+  ]
+}

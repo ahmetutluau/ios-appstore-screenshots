@@ -1,0 +1,56 @@
+{
+  "out_dir": "screenshots/final",
+  "sizes": [
+    "1320x2868"
+  ],
+  "theme": "light-pop",
+  "bg": "#7B5CFF",
+  "accent": "#7B5CFF",
+  "accent2": "#D946EF",
+  "text": "#15122B",
+  "frames": [
+    {
+      "screenshot": "raw/01.png",
+      "headline": "Budget\nmade fun",
+      "highlight": "fun",
+      "rating": {
+        "value": "4.7",
+        "label": "YOUR REAL count"
+      }
+    },
+    {
+      "screenshot": "raw/02.png",
+      "headline": "Spot every\nspending trend",
+      "highlight": "trend",
+      "headline_style": {
+        "highlight": "pill"
+      },
+      "decor": [
+        {
+          "emoji": "📊",
+          "at": [
+            0.1,
+            0.33
+          ],
+          "size": 0.1,
+          "rotate": -15
+        }
+      ]
+    },
+    {
+      "screenshot": "raw/03.png",
+      "headline": "Hit your\nsavings goals",
+      "highlight": "goals",
+      "popouts": [
+        {
+          "crop": [
+            0.05,
+            0.55,
+            0.9,
+            0.12
+          ]
+        }
+      ]
+    }
+  ]
+}

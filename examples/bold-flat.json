@@ -1,0 +1,90 @@
+{
+  "_ref": "AppLaunchpad / Aweb / BRIX kits - references/figma-examples.md #7 #12 #10",
+  "out_dir": "screenshots/final",
+  "sizes": [
+    "1320x2868"
+  ],
+  "theme": "bold-flat",
+  "bg": "#2346F5",
+  "text": "#FFFFFF",
+  "accent": "#FFD84D",
+  "frames": [
+    {
+      "screenshot": "raw/01.png",
+      "headline": "Money made\nfun again",
+      "highlight": "fun",
+      "decor": [
+        {
+          "badge": "NEW",
+          "shape": "starburst",
+          "color": "#FFD84D",
+          "at": [
+            0.84,
+            0.21
+          ],
+          "size": 0.2,
+          "rotate": 12,
+          "layer": "front"
+        }
+      ]
+    },
+    {
+      "screenshot": "raw/02.png",
+      "bg": "#FF7A1A",
+      "headline": "Spending insights\nin real time",
+      "highlight": "real time",
+      "device": {
+        "tilt": -8,
+        "x": 0.06,
+        "width": 0.9
+      }
+    },
+    {
+      "screenshot": "raw/03.png",
+      "bg": "#14B86A",
+      "headline": "Goals you\nactually hit",
+      "highlight": "actually hit",
+      "pattern": {
+        "type": "contours",
+        "at": [
+          0.9,
+          0.85
+        ],
+        "opacity": 0.18,
+        "count": 30
+      },
+      "decor": [
+        {
+          "shape": "wave",
+          "at": [
+            0.8,
+            0.07
+          ],
+          "size": 0.3,
+          "color": "#FFFFFF",
+          "rotate": -10
+        }
+      ]
+    },
+    {
+      "screenshot": "raw/04.png",
+      "bg": "#7B3FF2",
+      "headline": "Ask your\nmoney anything",
+      "highlight": "anything",
+      "decor": [
+        {
+          "badge": "40%\nOFF",
+          "shape": "circle",
+          "color": "#FF3B6B",
+          "at": [
+            0.86,
+            0.36
+          ],
+          "size": 0.2,
+          "rotate": -12,
+          "layer": "front"
+        }
+      ]
+    }
+  ]
+}

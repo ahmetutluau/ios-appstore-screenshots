@@ -1,0 +1,30 @@
+{
+  "out_dir": "screenshots/final",
+  "sizes": [
+    "1320x2868",
+    "1242x2688"
+  ],
+  "bg": "#0E7C66",
+  "bg2": "#08493C",
+  "text": "#FFFFFF",
+  "accent": "#FFD84D",
+  "layout": "bleed",
+  "frames": [
+    {
+      "screenshot": "raw/01.png",
+      "headline": "Track every dollar in seconds",
+      "highlight": "every dollar"
+    },
+    {
+      "screenshot": "raw/02.png",
+      "headline": "See your spending at a glance",
+      "highlight": "spending",
+      "sub": "Weekly and monthly charts"
+    },
+    {
+      "screenshot": "raw/03.png",
+      "headline": "Never miss a goal with smart nudges that keep you going",
+      "highlight": "smart nudges"
+    }
+  ]
+}

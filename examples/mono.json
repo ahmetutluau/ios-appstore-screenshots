@@ -1,0 +1,73 @@
+{
+  "_ref": "const lab Template + Farhan Shakir previews - references/figma-examples.md #16 #13",
+  "out_dir": "screenshots/final",
+  "sizes": [
+    "1320x2868"
+  ],
+  "theme": "mono",
+  "panorama": true,
+  "pattern": {
+    "type": "band",
+    "color": "#8C8778",
+    "opacity": 0.35,
+    "angle": -20,
+    "y": 0.55,
+    "width": 0.7
+  },
+  "panorama_devices": [
+    {
+      "screenshot": "raw/01.png",
+      "at": [
+        1.0,
+        0.1
+      ],
+      "width": 0.85,
+      "tilt": 62
+    }
+  ],
+  "frames": [
+    {
+      "headline": "Money, simplified",
+      "sub": "One calm place for every account",
+      "device": {
+        "style": "none"
+      }
+    },
+    {
+      "headline": "Built for focus",
+      "sub": "No ads. No clutter.",
+      "text_pos": "bottom",
+      "device": {
+        "style": "none"
+      }
+    },
+    {
+      "screenshot": "raw/02.png",
+      "headline": "Every number, clear",
+      "sub": "Monthly insights at a glance",
+      "decor": [
+        {
+          "text": "02",
+          "size": 0.95,
+          "color": "#FFFFFF",
+          "opacity": 0.09,
+          "at": [
+            0.5,
+            0.55
+          ]
+        }
+      ]
+    },
+    {
+      "screenshot": "raw/03.png",
+      "headline": "Easy to use",
+      "eyebrow": "Simple",
+      "eyebrow_icon": "check",
+      "eyebrow_solid": true,
+      "eyebrow_color": "#D9D4C7",
+      "device": {
+        "tilt": -14
+      }
+    }
+  ]
+}

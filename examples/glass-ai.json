@@ -1,0 +1,45 @@
+{
+  "_ref": "BRIX Agency App Store Screenshots (AI chat) - references/figma-examples.md #5",
+  "out_dir": "screenshots/final",
+  "sizes": [
+    "1320x2868"
+  ],
+  "theme": "glass-ai",
+  "bg": "#9DB8FF",
+  "accent": "#2F5BFF",
+  "accent2": "#C9D8FF",
+  "frames": [
+    {
+      "screenshot": "raw/04.png",
+      "logo_text": "Pocket",
+      "headline": "Your smart\nmoney partner",
+      "highlight": "money partner"
+    },
+    {
+      "screenshot": "raw/05.png",
+      "headline": "Two cards,\nfull control",
+      "highlight": "full control",
+      "popouts": [
+        {
+          "crop": [
+            0.04,
+            0.175,
+            0.92,
+            0.225
+          ],
+          "scale": 1.18
+        }
+      ]
+    },
+    {
+      "screenshot": "raw/06.png",
+      "background": "aurora",
+      "bg": "#2F5BFF",
+      "bg2": "#06103A",
+      "text": "#FFFFFF",
+      "accent": "#9DB8FF",
+      "headline": "Welcome to\nstress-free money",
+      "highlight": "stress-free"
+    }
+  ]
+}

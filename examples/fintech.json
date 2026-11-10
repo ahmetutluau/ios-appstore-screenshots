@@ -1,0 +1,58 @@
+{
+  "_ref": "FREE App Store Screenshot Templates (fintech) - references/figma-examples.md #15",
+  "out_dir": "screenshots/final",
+  "sizes": [
+    "1320x2868"
+  ],
+  "theme": "fintech",
+  "bg": "#5B2EF0",
+  "text": "#FFFFFF",
+  "accent": "#FFFFFF",
+  "frames": [
+    {
+      "screenshot": "raw/01.png",
+      "headline": "Pay anyone\ninstantly",
+      "highlight": "instantly",
+      "sub": "Free transfers between friends.",
+      "decor": [
+        {
+          "shape": "sparkle",
+          "at": [
+            0.12,
+            0.05
+          ],
+          "size": 0.06,
+          "color": "#FFFFFF",
+          "layer": "front"
+        }
+      ]
+    },
+    {
+      "screenshot": "raw/02.png",
+      "bg": "#1F2BFF",
+      "headline": "Manage money\nas a team",
+      "highlight": "Manage money",
+      "sub": "Split, track and settle up."
+    },
+    {
+      "screenshot": "raw/03.png",
+      "bg": "#F4FF8A",
+      "text": "#111111",
+      "accent": "#111111",
+      "headline": "Listen anywhere,\nanytime",
+      "highlight": "anywhere,",
+      "sub": "Sync your library across devices."
+    },
+    {
+      "screenshot": "raw/04.png",
+      "bg": "#0D0D12",
+      "headline": "Get notified\nabout payments",
+      "highlight": "notified",
+      "text_pos": "bottom",
+      "pattern": {
+        "type": "grid",
+        "opacity": 0.06
+      }
+    }
+  ]
+}

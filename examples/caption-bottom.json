@@ -1,0 +1,86 @@
+{
+  "_ref": "Lauren Tobolski App Store Templates + madewithjello preview - references/figma-examples.md #3 #8",
+  "out_dir": "screenshots/final",
+  "sizes": [
+    "1320x2868"
+  ],
+  "theme": "classic",
+  "text_pos": "bottom",
+  "background": "diagonal",
+  "bg": "#3B5BDB",
+  "bg2": "#4DABF7",
+  "accent": "#FFE066",
+  "headline_style": {
+    "font": "bold",
+    "size": 0.08
+  },
+  "frames": [
+    {
+      "screenshot": "raw/01.png",
+      "headline": "Your money, sorted",
+      "sub": "Every account in one place",
+      "decor": [
+        {
+          "shape": "hexagon",
+          "at": [
+            0.1,
+            0.7
+          ],
+          "size": 0.16,
+          "color": "#FFFFFF",
+          "opacity": 0.8
+        },
+        {
+          "shape": "hexagon",
+          "at": [
+            0.9,
+            0.3
+          ],
+          "size": 0.1,
+          "color": "#FFFFFF",
+          "opacity": 0.8,
+          "layer": "front"
+        }
+      ]
+    },
+    {
+      "screenshot": "raw/02.png",
+      "headline": "Three views,\none tap",
+      "highlight": "one tap",
+      "devices": [
+        {
+          "screenshot": "raw/03.png",
+          "at": [
+            0.36,
+            0.1
+          ],
+          "width": 0.62,
+          "tilt": 16
+        },
+        {
+          "screenshot": "raw/04.png",
+          "at": [
+            0.64,
+            0.1
+          ],
+          "width": 0.62,
+          "tilt": -16
+        }
+      ],
+      "device": {
+        "width": 0.66
+      }
+    },
+    {
+      "screenshot": "raw/05.png",
+      "headline": "Full control,\nno surprises",
+      "highlight": "Full control,",
+      "pattern": {
+        "type": "stripes",
+        "angle": 30,
+        "opacity": 0.08,
+        "spacing": 0.12
+      }
+    }
+  ]
+}

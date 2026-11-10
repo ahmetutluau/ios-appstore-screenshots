@@ -1,0 +1,97 @@
+{
+  "_ref": "ASO.dev App Store Screenshot Creator - references/figma-examples.md #2",
+  "out_dir": "screenshots/final",
+  "sizes": [
+    "1320x2868"
+  ],
+  "theme": "marker",
+  "bg": "#CDEBFF",
+  "bg2": "#E9F6FF",
+  "accent": "#FFE04A",
+  "frames": [
+    {
+      "logo_text": "Moneyly",
+      "headline": "Your money,\nsorted",
+      "highlight": "sorted",
+      "headline_style": {
+        "top": 0.2,
+        "size": 0.11
+      },
+      "device": {
+        "style": "none"
+      },
+      "decor": [
+        {
+          "badge": "TRACK  SAVE\nGROW!",
+          "shape": "tag",
+          "color": "#111111",
+          "text_color": "#FF4FA3",
+          "at": [
+            0.5,
+            0.72
+          ],
+          "size": 0.62,
+          "rotate": -6,
+          "font_scale": 0.11
+        }
+      ]
+    },
+    {
+      "screenshot": "raw/01.png",
+      "headline": "See every\npenny at once",
+      "highlight": "every",
+      "decor": [
+        {
+          "text": "01",
+          "font": "heavy",
+          "size": 0.95,
+          "color": "#9CCFFF",
+          "opacity": 1,
+          "at": [
+            0.5,
+            0.52
+          ]
+        }
+      ]
+    },
+    {
+      "screenshot": "raw/02.png",
+      "headline": "Budgets that\nadapt to you",
+      "highlight": "adapt",
+      "decor": [
+        {
+          "text": "02",
+          "font": "heavy",
+          "size": 0.95,
+          "color": "#9CCFFF",
+          "opacity": 1,
+          "at": [
+            0.5,
+            0.52
+          ]
+        }
+      ]
+    },
+    {
+      "screenshot": "raw/03.png",
+      "headline": "Goals you\nactually hit",
+      "highlight": "actually",
+      "decor": [
+        {
+          "text": "03",
+          "font": "heavy",
+          "size": 0.95,
+          "color": "#9CCFFF",
+          "opacity": 1,
+          "at": [
+            0.5,
+            0.52
+          ]
+        }
+      ]
+    }
+  ],
+  "device": {
+    "width": 0.74
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "out_dir": "screenshots/final",
+  "sizes": [
+    "1320x2868"
+  ],
+  "theme": "duotone",
+  "bg": "#2F6BFF",
+  "bg2": "#D24BA8",
+  "text": "#FFFFFF",
+  "accent": "#FFFFFF",
+  "frames": [
+    {
+      "screenshot": "raw/01.png",
+      "headline": "Every account\nin one view",
+      "highlight": ""
+    },
+    {
+      "screenshot": "raw/02.png",
+      "headline": "Spending insights\nin seconds",
+      "highlight": "",
+      "device": {
+        "tilt": -5
+      },
+      "popouts": [
+        {
+          "crop": [
+            0.05,
+            0.2,
+            0.9,
+            0.18
+          ],
+          "scale": 1.15
+        }
+      ]
+    },
+    {
+      "screenshot": "raw/03.png",
+      "headline": "Goals that keep\nyou on track",
+      "highlight": ""
+    }
+  ]
+}

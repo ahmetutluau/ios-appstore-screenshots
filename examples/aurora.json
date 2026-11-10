@@ -1,0 +1,63 @@
+{
+  "out_dir": "screenshots/final",
+  "sizes": [
+    "1320x2868"
+  ],
+  "theme": "aurora",
+  "bg": "#6A3DF0",
+  "bg2": "#0B0718",
+  "text": "#FFFFFF",
+  "accent": "#B9A4FF",
+  "accent2": "#7FE3FF",
+  "frames": [
+    {
+      "screenshot": "raw/01.png",
+      "headline": "Your money,\nfinally clear",
+      "highlight": "",
+      "logo_text": "Pocket",
+      "sub": "Every account in one place"
+    },
+    {
+      "screenshot": "raw/02.png",
+      "headline": "Know where\nevery dollar goes",
+      "highlight": "",
+      "eyebrow": "Smart insights",
+      "popouts": [
+        {
+          "crop": [
+            0.04,
+            0.32,
+            0.92,
+            0.14
+          ],
+          "scale": 1.15
+        }
+      ]
+    },
+    {
+      "screenshot": "raw/03.png",
+      "headline": "Save for what\nmatters most",
+      "highlight": "",
+      "chips": [
+        "Trips",
+        "Laptop",
+        "Rainy day"
+      ]
+    },
+    {
+      "screenshot": "raw/04.png",
+      "headline": "Ask anything\nabout your money",
+      "highlight": "",
+      "decor": [
+        {
+          "shape": "sparkle",
+          "at": [
+            0.12,
+            0.3
+          ],
+          "size": 0.06
+        }
+      ]
+    }
+  ]
+}

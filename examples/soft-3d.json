@@ -1,0 +1,30 @@
+{
+  "_ref": "Arzu Cetinkaya App Store & Play Store template (orange) - references/figma-examples.md #17",
+  "out_dir": "screenshots/final",
+  "sizes": [
+    "1320x2868"
+  ],
+  "theme": "soft-3d",
+  "bg": "#F0913A",
+  "text": "#FFFFFF",
+  "accent": "#FFFFFF",
+  "frames": [
+    {
+      "screenshot": "raw/01.png",
+      "headline": "Money made\nsimple"
+    },
+    {
+      "screenshot": "raw/02.png",
+      "headline": "See your month\nin seconds",
+      "device": {
+        "tilt": 20,
+        "width": 0.86
+      }
+    },
+    {
+      "screenshot": "raw/03.png",
+      "headline": "Reach every\ngoal",
+      "text_pos": "bottom"
+    }
+  ]
+}
